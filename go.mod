@@ -17,7 +17,7 @@ require (
 	github.com/caarlos0/env/v6 v6.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.0.3
-	github.com/containerd/containerd v1.4.4 // indirect
+	github.com/containerd/containerd v1.5.18 // indirect
 	github.com/docker/docker v20.10.3+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/elazarl/goproxy v0.0.0-20200809112317-0581fc3aee2d // indirect
@@ -50,7 +50,7 @@ require (
 	go.uber.org/zap v1.17.0
 	golang.org/x/oauth2 v0.0.0-20210402161424-2e8d93401602
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.27.1
 	gopkg.in/go-playground/validator.v9 v9.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
